@@ -1,0 +1,84 @@
+.user-meta-option a {
+    font-size: 12px;
+    padding: 0 10px;
+}
+.modal-blockquote-notice {
+    padding-top: 20px;
+}
+.placement-form,
+.conduct-test-form {
+    padding: 45px 20px;
+}
+.placement-form .input-group,
+.message-form .input-group,
+.conduct-test-form  .input-group {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.placement-user-detail--img {
+    width: 40px;
+}
+.badge-info {
+    background: #5bc0de;
+}
+.badge-success {
+    background: #5cb85c;
+}
+.badge-danger {
+    background: #d9534f;
+}
+.badge-warning {
+    background: #f0ad4e;
+}
+.actions .btn-link {
+    border: 1px solid #1da1f2;
+    /* border-right: none; */
+    border-left: none;
+}
+.actions li:first-child .btn-link {
+    border: 1px solid #1da1f2;
+}
+.actions li:last-child .btn-link {
+    border-right: 1px solid #1da1f2;
+}
+.activity--item .activity--content a {
+    color: inherit;
+}
+.activity--item .activity--content a:hover {
+    color: #555;
+}
+.member--item .actions .nav > li > a {
+    padding: 0px 5px;
+    font-size: 12px;
+    line-height: 24px;
+}
+.header--topbar-links > li > a {
+    padding: 10px;
+}
+.header--topbar-links .alert {
+    padding: 2px 5px;
+}
+.widget .media--comment {
+    margin: 0;
+}
+.messages--list,
+.message--item-detail {
+    overflow-y: scroll;
+    height: 400px;
+}
+.message--item-detail {
+    height: 500px;
+}
+.message--item-detail .activity--list {
+    height: 500px;
+    padding-bottom: 20px;
+}
+.activity--item-right .activity--avatar {
+    float: right;
+    margin-left: 15px;
+    margin-right: 0;
+}
+.media--img .figcaption, .media--video .figcaption, .media--audio .figcaption {
+    top: 5px;
+    bottom: initial;
+}
